@@ -6,8 +6,6 @@ This C++ program generates random keys based on user specifications and saves th
 
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
 
 ## Prerequisites
 
